@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=inviro&count_private=true&show_icons=true&theme=nord)](https://github.com/inviro)
+
 <!--
 **Inviro/Inviro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
